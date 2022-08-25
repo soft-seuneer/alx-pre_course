@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 echo
 git pull
+=======
+touch
+>>>>>>> update_script
